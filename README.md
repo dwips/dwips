@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi All, I am Dwi
+
+## Currently working as a front end developer
+
+- 🌱 I’m currently learning about cloud things
 
 <!--
 **dwips/dwips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
