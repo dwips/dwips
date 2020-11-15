@@ -1,20 +1,24 @@
-# Hi All, I am Dwi
+# Hi All, I am Dwi :wave:	
 
 ## Currently working as a front end developer
 
-- 🌱 I’m currently learning about cloud things
+* 🌱 I Love to learn many skills especially in front end technologies 
+* Like to play :soccer: :basketball: :badminton:
+* Checkout my blog here [website]
 
-<!--
-**dwips/dwips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+#### How to reach me
+[<img width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github logo"/>][github]
+[<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="github logo"/>][instagram] 
+[<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+
+[website]: https://www.inicatatan.com/
+[twitter]: https://twitter.com/dwi__ps
+[instagram]: https://www.instagram.com/dwieps
+[linkedin]: https://www.linkedin.com/in/dwi-prasetya-a754117a
+[github]: https://github.com/dwips
